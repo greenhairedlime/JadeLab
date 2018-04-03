@@ -1,11 +1,3 @@
-package Agents;
-
-import jade.core.AID;
-
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
-
 /*****************************************************************
 JADE - Java Agent DEvelopment Framework is a framework to develop 
 multi-agent systems in compliance with the FIPA specifications.
@@ -27,9 +19,15 @@ You should have received a copy of the GNU Lesser General Public
 License along with this library; if not, write to the
 Free Software Foundation, Inc., 59 Temple Place - Suite 330,
 Boston, MA  02111-1307, USA.
-*****************************************************************
+*****************************************************************/
 
+package Agents;
 
+import jade.core.AID;
+
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
 
 /**
   @author Giovanni Caire - TILAB
